@@ -1,0 +1,13 @@
+div{
+    border: 2px solid;
+    width: 232px;
+    height: 297px;
+    color: rgb(173, 171, 171);
+    overflow: auto;
+    float: left;
+}
+img{
+    width: 560px;
+    height: 646.53px;
+    float: right;
+}
